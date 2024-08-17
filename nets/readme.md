@@ -1,0 +1,1 @@
+just the stuff I need from the [EquiformerV2 repo](https://github.com/atomicarchitects/equiformer_v2?tab=readme-ov-file).
